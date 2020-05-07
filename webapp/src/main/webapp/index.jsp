@@ -36,7 +36,7 @@
 			<header class="col-xs-12 text-center">
 				<div class="logo">
 					<a href="#"><img src="images/logo.png"></a>
-					<h1>We are currently working on a awesome new site Piyush.</h1>
+					<h1>We are currently working on a awesome new site Piyush Solanki.</h1>
 					<ul class="time">
 						<li>
 							<span class="days" id="days"></span><br />
