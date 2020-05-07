@@ -40,7 +40,7 @@
 					<ul class="time">
 						<li>
 							<span class="days" id="days"></span><br />
-							Days
+							Dayssssssss
 						</li>
 						<li>
 							<span class="hours"></span><br />
